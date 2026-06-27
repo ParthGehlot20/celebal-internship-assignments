@@ -20,6 +20,7 @@ Below is the directory of my work. For the first three weeks, the links to the o
 | **Week 3** | [📁 View Week 3 Files](./Week-03) | [Original Week 3 Repository](https://github.com/ParthGehlot20/celebal-data-engineering-week3.git) |
 | **Week 4** | [📁 View Week 4 Files](./Week-04) | *Submitted directly to this repository* |
 | **Week 5** | [📁 View Week 5 Files](./Week-05) | *Submitted directly to this repository* |
+| **Week 6** | [📁 View Week 6 Files](./Week-06) | *Submitted directly to this repository* |
 
 > **Note:** Each individual `Week-XX` folder contains its own dedicated `README.md` file with specific details, instructions, and insights regarding that week's assignment.
 
